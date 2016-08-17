@@ -9,7 +9,7 @@ lib.properties = {
 	fps: 24,
 	color: "#FFFFFF",
 	manifest: [
-		{src:"images_gonzo/_334.jpg", id:"_334"},
+		{src:"images_gonzo/bg.jpg", id:"_334"},
 		{src:"images_gonzo/cgg.jpg", id:"cgg"},
 		{src:"images_gonzo/e3.png", id:"e3"},
 		{src:"images_gonzo/gonzos_questlogolighter1.png", id:"gonzos_questlogolighter1"},
